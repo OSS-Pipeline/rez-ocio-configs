@@ -1,3 +1,4 @@
-# rez-ocio-configs
+rez-ocio-configs
+===
 
 Rez build configuration for OCIO configurations.
